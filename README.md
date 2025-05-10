@@ -1,1 +1,1 @@
-Readme untuk tes
+This repository is made for my exercises 😉
